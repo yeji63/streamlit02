@@ -10,11 +10,11 @@ val3 = st.button("토끼")
 
 # 동작
 if val1:
-    st.image("./data/cat.jpg")
+    st.image("https://imgur.com/a/O8C9M1r")
 elif val2:
-    st.image("./data/dog.png")
+    st.image("https://imgur.com/a/O8C9M1r")
 elif val3:
-    st.image("./data/rabbit.png")
+    st.image("https://imgur.com/a/O8C9M1r")
 
 # 출력
 st.write(val1)
